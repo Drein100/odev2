@@ -1,4 +1,3 @@
-# Bölüm 1: Operatörler ile İşlemler
 # Görev 1: Kullanıcıdan iki sayı alıp işlemleri gerçekleştirme
 
 sayi1 = float(input("Birinci sayıyı girin: "))
@@ -12,7 +11,6 @@ print(f"Mod alma: {sayi1} % {sayi2} = {sayi1% sayi2}")
 print(f"Üs alma: {sayi1} ** {sayi2} = {sayi1** sayi2}")
 print()
 
-# Bölüm 2: Döngüler ile Uygulamalar
 # Görev 2: 1’den kullanıcının girdiği sayıya kadar olan sayıların toplamı
 
 n = int(input("Bir sayı girin: "))
